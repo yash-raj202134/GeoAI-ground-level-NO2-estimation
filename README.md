@@ -35,7 +35,7 @@ The remote sensing data provided in this challenge is processed using Google Ear
 
 The combination of ground truth and remote sensing data provides a comprehensive dataset for developing robust models capable of accurately estimating NO2 concentrations in diverse conditions.
 
-Air Quality monitoring stations in study area
+Air Quality monitoring stations in study area (Italy)
 
 ![](study_area.jpg)
 ## Importance of the Project
