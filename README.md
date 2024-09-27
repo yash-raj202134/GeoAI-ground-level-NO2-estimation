@@ -10,7 +10,7 @@ The **GeoAI Ground-Level NO2 Estimation Challenge** is an open project aimed at 
 
 The primary goal of this project is to build machine learning models that accurately estimate surface NO2 concentrations. The models should leverage remote sensing data provided by Google Earth Engine (GEE) alongside ground truth NO2 data from air quality monitoring stations. The competition emphasizes the need for transparency, reproducibility, and innovation in the model development process.
 
-Participants are expected to:
+
 - **Ensure transparency** by clearly documenting each step of the model development process, including data preprocessing, feature selection, model architecture, and hyperparameter tuning.
 - **Demonstrate reproducibility** by providing well-organized code and thorough documentation, allowing others to replicate their results.
 - **Develop adaptable models** capable of estimating NO2 levels across different weather conditions and seasons, ensuring robustness and generalizability.
